@@ -10,6 +10,21 @@
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    },
+         {
+		    "name": "PLXS",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt",
+	    },
+        {
+		    "name": "MD",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt",
+	    },
+        {
+		    "name": "RH",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt",
+	    },
         {
 		    "name": "SS",
 		    "type": 0,
@@ -56,20 +71,6 @@
 		    "name": "18+",
 		    "type": 0,
 		    "url": "http://live.nctv.top/zby/18.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    },
-         {
-		    "name": "ADULT",
-		    "type": 0,
-		    "url": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/ADULT",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    },
-        {
-		    "name": "XXYS",
-		    "type": 0,
-		    "url": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/XXYS",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }

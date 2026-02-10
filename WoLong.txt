@@ -13,17 +13,17 @@
          {
 		    "name": "PLXS",
 		    "type": 0,
-		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt",
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt"
 	    },
         {
 		    "name": "MD",
 		    "type": 0,
-		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt",
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt"
 	    },
         {
 		    "name": "RH",
 		    "type": 0,
-		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt",
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt"
 	    },
         {
 		    "name": "SS",

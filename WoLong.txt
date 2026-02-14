@@ -54,20 +54,13 @@
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    },
-		{
+          {
 		    "name": "18dianbo",
 		    "type": 0,
 		    "url": "https://codeberg.org/xinghaizhang/zhiboyuan/raw/branch/main/18dianbo.m3u",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
-	 	  },	
-		{
-		    "name": "livejp",
-		    "type": 0,
-		    "url": "https://codeberg.org/kaluote200/tvbox/raw/branch/master/live/livejp.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    },		
+	  },	
         {
 		    "name": "DO",
 		    "type": 0,
@@ -83,8 +76,6 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }
            ], 
-
-  
 
   "sites": [
     {

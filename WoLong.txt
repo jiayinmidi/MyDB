@@ -90,6 +90,7 @@
 {"key":"茅台资源","name":"茅台资源","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1},
 {"key":"暴风资源","name":"暴风资源(切)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"索尼资源","name":"索尼资源(切)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"优质资源","name":"优质资源(切)","type":1,"api":"https://api.yzzy-api.com/inc/apijson.php?ac=list","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"牛牛资源","name":"牛牛资源(切)","type":1,"api":"https://api.niuniuzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"丫丫资源","name":"丫丫资源(切)","type":1,"api":"https://cj.yayazy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},

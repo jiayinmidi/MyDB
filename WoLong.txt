@@ -96,7 +96,6 @@
 {"key":"丫丫资源","name":"丫丫资源(切)","type":1,"api":"https://cj.yayazy.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大资源(切)","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"最大","name":"最大资源","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/","searchable":1,"quickSearch":1},
-{"key":"顶多资源","name":"顶多资源(切)","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙(切)","name":"卧龙资源","type":1,"api":"https://wolongzyw.com/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -105,7 +104,6 @@
 {"key":"非凡资源","name":"非凡资源(切)","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"360资源","name":"360资源(切)","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"墨斗资源","name":"墨斗资源(切)","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"魔都资源","name":"魔都资源(切)","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/","searchable":1,"quickSearch":1},
 {"key":"百度采集","name":"百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源(切)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"极速资源","name":"极速资源(切)","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -123,7 +121,9 @@
 {"key":"天涯","name":"天涯资源","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"豆瓣资源","name":"豆瓣资源","type":1,"api":"https://dbzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"豆瓣(切)","name":"豆瓣","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1},
-{"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"顶多资源","name":"顶多(联通）","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"魔都资源","name":"魔都(联通）","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/","searchable":1,"quickSearch":1},
+{"key":"红牛资源","name":"红牛(联通）","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},

@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+  "spider": "https://tv.xn--11x555b.top/jar/woniu0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
   "lives": [
     {
       "name": "📺PLXS",
@@ -59,7 +59,7 @@
       "api": "https://github.com/c120487/00/raw/main/api/直播转点播.js",
       "ext": "Peter1$https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#RH$https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/RH/RH.txt#MD$https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/MD/MD.txt#PLXS$https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/PLXS/PLXS.txt"},
 
-{"key": "非凡","name": "非凡","type": 0,"api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "非凡","name": "非凡","type": 0,"api": "http://api.ffzyapi.com/api.php/provide/vod/at/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key":"爱奇艺","name":"爱奇艺","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"茅台资源","name":"茅台资源","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},

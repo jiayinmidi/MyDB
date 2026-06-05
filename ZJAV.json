@@ -44,7 +44,7 @@
 {"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]},
 {"key":"天涯","name":"天涯资源","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","邵氏电影"]},
 {"key":"百度采集","name":"百度采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","邵氏电影"]},
-{"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]}},
+{"key":"樱花资源","name":"樱花资源(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"非凡资源","name":"非凡资源(切)","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"360资源","name":"360资源(切)","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"量子资源","name":"量子资源(切)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},

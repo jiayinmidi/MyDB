@@ -98,7 +98,7 @@
       "key": "live",
       "name": "🏀/直播转点播",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/jiayinmidi/zydb/raw/master/apiv583lf_live_min.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJhcGl2NTgzbGZfbGl2ZV9taW4uanMiLCJ1aWQiOjE0NDAzMzIyLCJwaWQiOjQwNjQyNDI2LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTMiLCJycCI6InJlcG9zLzczLzJiLzczMmI4YzYyZmMzZTQ1NTQ0MmYyOTg4YTg2YTQ4NjVlODE2NmY1YThmMWQwNjBjZDRhZjBlMGJjNjA1YWU5MzkuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3ODA2MzI2MDB9&signature=gtut821_l-HobZB4cVBUigUDxHmNkem1d2_NlDS6JFE",
+      "api": "https://gitee.com/jiayinmidi/zydb/blob/master/apiv583lf_live_min.js",
       "ext": "Peter1$https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#RH$https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt#MD$https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt#PLXS$https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt"},
 
     {

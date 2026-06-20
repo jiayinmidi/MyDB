@@ -32,7 +32,7 @@
 {"key":"影剧资源","name":"影剧资源","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"暴风资源","name":"暴风资源(切)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["理论片","福利"]},
 {"key":"飘零资源","name":"飘零资源(切)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["理论片","邵氏大片"]},
-{"key":"优质资源","name":"优质资源","type":1,"api":"https://api.yyzy-tv.vip/inc/apijson.php","searchable":1,"quickSearch":1,"categories": ["福利"]},
+{"key":"优质资源","name":"优质资源","type":1,"api":"https://api.yyzy-tv.vip/inc/apijson.php","searchable":1,"quickSearch":1,"categories": ["倫理片","福利"]},
 {"key":"优质","name":"优质","type":1,"api":"https://api.yyzy-tv.vip/inc/apijson.php?ac=list","searchable":1,"quickSearch":1,"categories": ["倫理片","福利"]},
 {"key":"索尼资源","name":"索尼资源(切)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]},
 {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]},

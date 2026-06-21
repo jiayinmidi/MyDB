@@ -102,6 +102,13 @@
       "ext": "https://raw.githubusercontent.com/jiayinmidi/MyDB/refs/heads/main/%E7%9B%B4%E6%92%AD.txt"
     },
     {
+      "key": "直播转点播2",
+      "name": "💃┃SR┃直播",
+      "type": 3,
+      "api": "https://codeberg.org/jiayinmidi/WANNENGYUAN/src/branch/main/TXT/lf_live_min.js",
+      "ext": "https://raw.githubusercontent.com/jiayinmidi/MyDB/refs/heads/main/%E7%9B%B4%E6%92%AD.txt"
+    },
+    {
       "key": "色播",
       "name": "🔞色播直播",
       "type": 3,

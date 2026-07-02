@@ -81,9 +81,9 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/mmhy.zzong6599.workers.dev"
          },
          {
-            "name": "直播",
+            "name": "shiba1",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/live.js",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt",
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"

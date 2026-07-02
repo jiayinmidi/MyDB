@@ -76,9 +76,9 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    },
          {
-            "name": "全部",
+            "name": "日后",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/mmhy.zzong6599.workers.dev"
+            "url": " http://rihou.cc:555/gggg.nzk"
          },
          {
             "name": "shiba1",

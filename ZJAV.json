@@ -61,7 +61,7 @@
 {"key":"如意(切)","name":"如意资源(切)","type":1,"api":"http://cj.rycjapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"如意","name":"如意","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/json/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"豪华茶杯狐","name":"豪华茶杯狐(切)","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-{"key": "豪华","name": "🈲 成人频道[豪华]🌈","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "豪华","name": "🈲 频道[豪华]🌈","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key":"自行搭建的 cms","name":"自行搭建的 cms","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"豆瓣资源","name":"豆瓣资源","type":1,"api":"https://dbzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"豆瓣(切)","name":"豆瓣","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},

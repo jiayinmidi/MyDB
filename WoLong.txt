@@ -76,6 +76,11 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    },
          {
+            "name": "精品快餐",
+            "type": 0,
+            "url": " https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt"
+         },
+         {
             "name": "日后",
             "type": 0,
             "url": " http://rihou.cc:555/gggg.nzk"

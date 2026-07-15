@@ -32,6 +32,11 @@
 		    "type": 0,
 		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt"
 	    },
+        {
+		    "name": "ZADQ",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/ZADQ.txt"
+	    },
          {
 		    "name": "XXYS",
 		    "type": 0,

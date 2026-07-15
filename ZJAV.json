@@ -1,21 +1,101 @@
 {
   "spider": "https://tv.xn--11x555b.top/jar/woniu0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
   "lives": [
-    {
-      "name": "📺PLXS",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt"
-    },
-    {
-      "name": "📺MD",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt"
-    },
-    {
-      "name": "📺RH",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt"
-    }
+         {
+		    "name": "LJZB",
+		    "type": 0,
+		    "url": "https://gitee.com/jiayinmidi/lao-jia-zb/raw/master/ZB",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    },
+        {
+		    "name": "HMZB",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/KZB/refs/heads/main/HMZB.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    },
+         {
+		    "name": "PLXS",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt"
+	    },
+        {
+		    "name": "MD",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt"
+	    },
+        {
+		    "name": "RH",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt"
+	    },
+        {
+		    "name": "ZADQ",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/ZADQ.txt"
+	    },
+         {
+		    "name": "XXYS",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/XXYS.txt"
+	    },
+        {
+		    "name": "MaYi",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MaYi.txt"
+	    },
+        {
+		    "name": "Adult",
+		    "type": 0,
+		    "url": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/Adult.txt"
+	    },
+        {
+		    "name": "SS",
+		    "type": 0,
+		    "url": "http://xmbjm.fh4u.org/ss.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    },
+          {
+		    "name": "18dianbo",
+		    "type": 0,
+		    "url": "https://codeberg.org/xinghaizhang/zhiboyuan/raw/branch/main/18dianbo.m3u",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	  },	
+        {
+		    "name": "DO",
+		    "type": 0,
+		    "url": "https://mpimg.cn/down.php/8d2a9e288c792b5c97ae81b9e59b2c07.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    },
+        {
+		    "name": "18+",
+		    "type": 0,
+		    "url": "http://live.nctv.top/zby/18.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    },
+         {
+            "name": "精品快餐",
+            "type": 0,
+            "url": " https://d.kstore.dev/download/13045/1_%E7%B2%BE%E5%93%81%E5%BF%AB%E9%A4%90%281%29.txt"
+         },
+         {
+            "name": "日后",
+            "type": 0,
+            "url": " http://rihou.cc:555/gggg.nzk"
+         },
+         {
+            "name": "shiba1",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+         }
   ],
   "sites": [
     {

@@ -230,6 +230,36 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	      {
+      "key": "学生合集",
+      "name": "学生合集",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+        "分类url": "https://msdtcd6h.student23.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby",
+        "分类": "偷拍自拍$55#国产制作$63#乱伦三观$58#嫖妓过程$60#淫乱学妹$57#黑料打烊$65#主播网红$61#高清无码$80#中文字幕$81#媚黑母狗$20#3D动漫$25#剧情故事$26#麻豆视频$105#91制片厂$106#天美传媒$107#蜜桃传媒$108#星空传媒$110#精东影业$111#乐播传媒$112#兔子先生$113#国产精品$92#华语AV$93#黑料吃瓜$94#欧美精品$95#动漫禁漫$96#学生合集$97#乱伦精品$98#探花约炮$99#日本无码$100#日本有码$101#主播网红$102#日本素人$103"
+      }
+    },
+    {
+      "key": "黄库",
+      "name": "黄库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+        "分类url": "http://555961.xyz/",
+        "分类": "无码中文字幕$8#有码中文字幕$9#日本无码$10#日本有码$7#骑兵破解$26#国产视频$15#欧美高清$21#动漫剧情$22#日韩AV$1#国产系列$2#欧美$3#成人动漫$4"
+      }
+    
 {"key":"🔞番号","name":"🔞番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
 {"key":"🔞红桃视频","name":"🔞红桃视频","type":1,"api":"https://apidanaizi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"🔞桃花资源","name":"🔞桃花资源","type":1,"api":"https://thzy1.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},

@@ -233,6 +233,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	 {
+    "name": "🔞搜AV资源"
+      "key": "搜AV资源",
+      "type": 1,
+    "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+   }, 
 	      {
       "key": "学生合集",
       "name": "学生合集",

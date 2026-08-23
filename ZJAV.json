@@ -383,20 +383,8 @@
             "id": 67
         },
     {
-      "key": "精工厂",
-      "name": "✨Aries|精工厂✨",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/精工厂.json"
-    },
-    {
-      "key": "麻豆",
-      "name": "👊【撸到出血為止！-麻豆】👊",
+      "key": "学生",
+      "name": "学生👊",
       "type": 3,
       "changeable": 1,
       "filterable": 1,
@@ -406,9 +394,9 @@
         "ratio": 1.7
       },
       "ext": {
-        "发布url": "www.njav.sbs",
-        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类": "日本视频$1#麻豆视频$2#国产视频$3",
+        "发布url": "https://r2ym1dpi.student30.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby",
+        "搜索url": "https://r2ym1dpi.student30.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类": "主播网红$102#学生合集$97#黑料吃瓜$94#日本无码$100#乱伦三观$58",
         "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
         "直接播放": "1"
       }
@@ -570,18 +558,6 @@
       "ext": "./lib/樱樱女子.json"
     },
     {
-      "key": "激动网",
-      "name": "✨Aries|激动网✨",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/激动网.json"
-    },
-    {
       "key": "成鸡思汉",
       "name": "✨Aries|成鸡思汉✨",
       "type": 3,
@@ -623,8 +599,8 @@
       }
     },
     {
-      "key": "快递🔞",
-      "name": "快递🔞",
+      "key": "学生🔞",
+      "name": "学生🔞",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/XBPQ.jar",
@@ -634,12 +610,12 @@
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
-        "主页url": "https://www.xjjkdfw.sbs/",
+        "主页url": "https://r2ym1dpi.student30.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
         "数组": "thumbnail-group clearfix&&</li",
         "标题": ">&&<",
         "图片": "original=\"&&\"",
         "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-        "分类url": "https://www.xjjkdfw.sbs/vodtype/{cateId}/page/{catePg}.html",
+        "分类url": "https://r2ym1dpi.student30.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby/vodtype/{cateId}/page/{catePg}.html",
         "分类二次截取": "<div class=\"area\">&&</div",
         "分类数组": "<a&&/a>",
         "分类标题": ">&&<",
@@ -648,21 +624,21 @@
     },
     {
       "key": "911爆料网",
-      "name": "911爆料网",
+      "name": "学生网",
       "type": 3,
       "jar": "./lib/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "作者": "✨集✨",
-        "发布地址": "https://hljdh.co/,https://bean.hbmkuelb.com/homeway.html",
+        "发布地址": "https://cd6h1dpi.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
         "站名": "911爆料网",
         "编码": "UTF-8",
         "请求头": "User-Agent$MOBILE_UA",
-        "主页url": "https://argue.hbmkuelb.com",
+        "主页url": "https://cd6h1dpi.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
         "首页": "200",
         "起始页": "1",
         "分类url": "/category/{cateId}/{catePg}/;;mrcRA",
-        "分类": "最新爆料$jrgb#精选大瓜$rmgb#猎奇吃瓜$blqw#TOP5大瓜$rlph#社会热点$ssdbl#海角社区$hjsq#每日大赛$mrds#校园吃瓜$xyss#明星吃瓜$mxhl#网红爆料$whbl#反差爆料$bgzq#网黄福利$fljq#午夜剧场$crfys#探花经典$thjx#禁漫天堂$dmhv#吃瓜精选$slec#重口调教$zksr#精选连载$crlz",
+        "分类": "黑料打烊$65#麻豆视频$105#91制片厂$106#天美传媒$107",
         "数组": "dateModified&&</a",
         "图片": "https://v2.api-m.com/api/meinvpic?return=302",
         "标题": "headline\">&&<",
@@ -691,7 +667,7 @@
       "filterable": 1,
       "ext": {
                 "站名": "学生合集",
-                "主页url": "https://r2ymmsdt.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby/",
+                "主页url": "https://r2ymmsdt.student29.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby/",
                 "直接播放": "1",
                 "数组": "<div class=\"stui-vodlist__box\">&&</li>",
                 "图片": "data-original=\"&&\"",
@@ -699,7 +675,7 @@
                 "链接": "href=\"&&\"",
                 "播放链接": "href=\"&&\"",
                 "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "https://r2ymmsdt.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby/?search2=ndafeoafa&search={wd}",
+                "搜索url": "https://r2ymmsdt.student29.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby/?search2=ndafeoafa&search={wd}",
                 "搜索模式": "0",
                 "搜索数组": "<div class=\"stui-vodlist__box\">&&</li>",
                 "搜索图片": "data-original=\"&&\"",
@@ -710,21 +686,6 @@
         "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
         "分类url": "https://r2ymmsdt.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
         "分类": "偷拍自拍$55#国产制作$63#乱伦三观$58#嫖妓过程$60#淫乱学妹$57#黑料打烊$65#主播网红$61#高清无码$80#中文字幕$81#媚黑母狗$20#3D动漫$25#剧情故事$26#麻豆视频$105#91制片厂$106#天美传媒$107#蜜桃传媒$108#星空传媒$110#精东影业$111#乐播传媒$112#兔子先生$113#国产精品$92#华语AV$93#黑料吃瓜$94#欧美精品$95#动漫禁漫$96#学生合集$97#乱伦精品$98#探花约炮$99#日本无码$100#日本有码$101#主播网红$102#日本素人$103"
-      }
-    },
-    {
-      "key": "黄库",
-      "name": "黄库",
-      "type": 3,
-      "api": "KSY_XBPQ",
-      "jar": "./lib/KSY_XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
-        "分类url": "http://555961.xyz/",
-        "分类": "无码中文字幕$8#有码中文字幕$9#日本无码$10#日本有码$7#骑兵破解$26#国产视频$15#欧美高清$21#动漫剧情$22#日韩AV$1#国产系列$2#欧美$3#成人动漫$4"
       }
     },
     {
@@ -849,20 +810,6 @@
       "ext": "./lib/金陵撸铁汉.json"
     },
     {
-      "key": "咪咪女孩",
-      "name": "㊙️咪咪女孩",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "style": {
-        "ratio": 1.43
-      },
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/咪咪女孩.json"
-    },
-    {
       "key": "69超级影院",
       "name": "㊙️69超级影院",
       "type": 3,
@@ -930,31 +877,6 @@
       }
     },
     {
-      "key": "魔法少女1",
-      "name": "魔法少女1",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "魔法少女",
-        "站名": "",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://6181006.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "FC2$9#中文$7#无码$8#国产$6#国S-CUTE$11#PREST$12#GANA$26#一本道$10#国播$61#LUXU$27#HeyZo$28#人妻斩$60#韩播$62",
-        "数组": "vodbox\"&&</a>",
-        "标题": "多吃枸杞啊",
-        "副标题": "🍵",
-        "图片": "data-original=\"&&\"",
-        "播放链接": "https://6181006.xyz/html/abou.html?url=&&",
-        "直接播放": 1,
-        "搜索url": "https://6181006.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }
-    },
-    {
       "key": "魔法少女2",
       "name": "魔法少女2",
       "type": 3,
@@ -978,17 +900,6 @@
         "嗅探词": ".m3u8",
         "直接播放": 1,
         "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }
-    },
-    {
-      "key": "游击队",
-      "name": "游击队",
-      "type": 3,
-      "jar": "./lib/XBPQ.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
-        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
       }
     },
     {

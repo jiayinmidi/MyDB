@@ -190,12 +190,10 @@
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"西瓜资源","name":"西瓜资源","type":1,"api":"https://caiji.xgzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"猫眼","name":"猫眼","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"categories": ["里番动漫","伦理片"]},
-{"key":"98资源","name":"98资源(切)","type":1,"api":"https://98zy.vip/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"categories": ["邵氏电影","伦理片"]},
 {"key":"CK资源(切)","name":"CK资源(切)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"U酷资源","name":"U酷资源(切)","type":1,"api":"https://api.ukuapi88.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-{"key":"樱花资源","name":"樱花(联通)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"红牛资源","name":"红牛(联通)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-
+{"key":"樱花资源","name":"樱花(联通)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
     {
       "key": "vv001",
       "name": "️💃女優💃",
@@ -251,37 +249,23 @@
     },
 {"key": "直转点", "name": "🔞㊙️点播","type": 3,"api":"./lib/直转点.js","ext":"./lib/直转点.txt"},
         {
-            "key": "黄色视频",
-            "name": "🔞黄色视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./XBPQ.jar",
-            "style": {
-                "ratio": 1.7
-            },
-            "ext": {
-                "主页url": "https://hsck123.26img.com",
-                "数组": "class=\"stui-vodlist__box&&</div>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"&&\"",
-                "直接播放": "1",
-                "播放数组": "\"*-pannel-bd&&</div>",
-                "线路数组": "<h3&&</h3>",
-                "播放标题": ">&&</a>",
-                "分类": "国产$gc#无码$wz#有码$yz#欧美$om#动画$dm",
-                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
-            }
-        },
-        {
-            "key": "csp_hs",
-            "name": "🔞新黄色仓库",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./XBPQ.jar",
+            "key": "处女控",
+            "name": "🔞处女控",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
+            "filterable": 1
+        },
+        {
+            "key": "🍉黄色仓库",
+            "name": "🍉黄色仓库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": {
                 "站名": "黄仓库",
                 "主页url": "https://hsck3.26img.com/",
@@ -304,103 +288,6 @@
                 "分类url": "https://hsck3.26img.com/?type={cateId}&p={catePg};;az"
             }
         },
-        {
-            "key": "处女控",
-            "name": "🔞处女控",
-            "type": 1,
-            "api": "https://ckzy.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "猎奇之家",
-            "name": "🔞猎奇┃视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://xn--ayt-liqivodcom-265y81sv86ipxq897b.liqivod-com.com/",
-                "数组": "class=\"vodmod\"&&</h3>",
-                "标题": "title=\"&&\"",
-                "图片": "image:url('&&')",
-                "副标题": "vodtime\">&&</span>",
-                "链接": "href=\"&&\"",
-                "分类url": "https://xn--ayt-liqivodcom-265y81sv86ipxq897b.liqivod-com.com/list/{cateId}-{catePg}.html[https://xn--ayt-liqivodcom-265y81sv86ipxq897b.liqivod-com.com/list/{cateId}.html];;z",
-                "分类": "人妖TS$80#自拍偷拍$591#女同性恋$609#女王调教$616#口交系列$617#AI换脸$620#明星偶像$621#群交淫乱$622"
-            }
-        },
-        {
-            "key": "九月影视",
-            "name": "🔞九月┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "数组": "item-con clearfix&&class=\"hot\"",
-                "标题": "alt=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "<em>&&</em>",
-                "链接": "href=\"&&\"",
-                "分类url": "https://www.ddzw.cn/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "福利$29",
-                "类型": "国产精品$30#亚洲无码$31#日本精品$32#中文字幕$33#欧美精品$34#成人动漫$35#三级伦理$36#人妻熟女$37#口爆颜射$38#萝莉少女$39#SM调教$40#美乳巨乳$41#短视频$42#女同性爱$43#AI换脸$44#多人群交$45#制服诱惑$46#网曝门$48#人兽$49#性课堂$50"
-            }
-        },
-        {
-            "key": "21mm",
-            "name": "🔞21mm",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "style": {
-                "ratio": 1.33
-            },
-            "ext": {
-                "请求头": "手机",
-                "主页url": "https://www.21mm.cc/",
-                "直接播放": "1",
-                "分类url": "https://www.21mm.cc/index.php/vod/type/id/{cateId}/list_{catePg}.html",
-                "分类": "麻豆视频$1#91制片厂$2#天美传媒$3#蜜桃传媒$4#皇家华人$5#星空传媒$6#精东影业$7#性视界$8#成人头条$9#萝莉社$10#兔子先生$11#杏吧原创$12#玩偶姐姐$13#溏心Vlog$14#色控$15#其他传媒$16#SA国际传媒$17"
-            }
-        },
-        {
-            "key": "萝莉资源",
-            "name": "🔞萝莉资源",
-            "api": "https://192.151.223.213/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "影视",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 67
-        },
-    {
-      "key": "学生",
-      "name": "学生👊",
-      "type": 3,
-      "changeable": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": {
-        "发布url": "https://r2ym1dpi.student30.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby",
-        "搜索url": "https://r2ym1dpi.student30.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类": "主播网红$102#学生合集$97#黑料吃瓜$94#日本无码$100#乱伦三观$58",
-        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-        "直接播放": "1"
-      }
-    },
     {
       "key": "文件夹",
       "name": "✨Aries|文件夹✨",
@@ -596,96 +483,6 @@
         "分类标题": ">&&<",
         "分类ID": "/index.php/vod/type/id/&&.html",
         "简介": "description\" content=\"&&\""
-      }
-    },
-    {
-      "key": "学生🔞",
-      "name": "学生🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://r2ym1dpi.student30.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
-        "数组": "thumbnail-group clearfix&&</li",
-        "标题": ">&&<",
-        "图片": "original=\"&&\"",
-        "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-        "分类url": "https://r2ym1dpi.student30.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby/vodtype/{cateId}/page/{catePg}.html",
-        "分类二次截取": "<div class=\"area\">&&</div",
-        "分类数组": "<a&&/a>",
-        "分类标题": ">&&<",
-        "分类ID": "/vodtype/&&.html"
-      }
-    },
-    {
-      "key": "911爆料网",
-      "name": "学生网",
-      "type": 3,
-      "jar": "./lib/xyqxbpq.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "作者": "✨集✨",
-        "发布地址": "https://cd6h1dpi.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
-        "站名": "911爆料网",
-        "编码": "UTF-8",
-        "请求头": "User-Agent$MOBILE_UA",
-        "主页url": "https://cd6h1dpi.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
-        "首页": "200",
-        "起始页": "1",
-        "分类url": "/category/{cateId}/{catePg}/;;mrcRA",
-        "分类": "黑料打烊$65#麻豆视频$105#91制片厂$106#天美传媒$107",
-        "数组": "dateModified&&</a",
-        "图片": "https://v2.api-m.com/api/meinvpic?return=302",
-        "标题": "headline\">&&<",
-        "副标题": "datePublished*>&&<",
-        "链接": "href=\"&&\"",
-        "简介": "og:description\" content=\"&&\"",
-        "线路二次截取": "",
-        "线路数组": "data-config='&&</div",
-        "线路标题": "爆料",
-        "播放数组": "data-config='&&</div",
-        "播放列表": "{&&}}",
-        "播放标题": "\"&&\"",
-        "播放链接": "url\":\"&&\"",
-        "搜索url": "/search/{wd}/{pg}/",
-        "搜索模式": "1"
-      }
-    },
-    {
-      "key": "学生合集",
-      "name": "学生合集",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-                "站名": "学生合集",
-                "主页url": "https://r2ymmsdt.student29.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby/",
-                "直接播放": "1",
-                "数组": "<div class=\"stui-vodlist__box\">&&</li>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "播放链接": "href=\"&&\"",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "https://r2ymmsdt.student29.xyz/%E5%8A%9B%E4%BA%89%E4%B8%8A%E6%B8%B8/?fby/?search2=ndafeoafa&search={wd}",
-                "搜索模式": "0",
-                "搜索数组": "<div class=\"stui-vodlist__box\">&&</li>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "免嗅": "1",
-                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-        "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
-        "分类url": "https://r2ymmsdt.student29.xyz/%E5%A5%8B%E5%8F%91%E5%9B%BE%E5%BC%BA/?fby",
-        "分类": "偷拍自拍$55#国产制作$63#乱伦三观$58#嫖妓过程$60#淫乱学妹$57#黑料打烊$65#主播网红$61#高清无码$80#中文字幕$81#媚黑母狗$20#3D动漫$25#剧情故事$26#麻豆视频$105#91制片厂$106#天美传媒$107#蜜桃传媒$108#星空传媒$110#精东影业$111#乐播传媒$112#兔子先生$113#国产精品$92#华语AV$93#黑料吃瓜$94#欧美精品$95#动漫禁漫$96#学生合集$97#乱伦精品$98#探花约炮$99#日本无码$100#日本有码$101#主播网红$102#日本素人$103"
       }
     },
     {

@@ -103,7 +103,7 @@
       "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
     },
     {
-      "key": "豆瓣",
+      "key": "豆瓣┃首页",
       "name": "🏰 豆瓣┃首页",
       "type": 3,
       "api": "csp_Douban",
@@ -114,14 +114,10 @@
       "ext": "./lib/douban.json"
     },
     {
-      "key": "csp_Gz360",
-      "name": "🔥瓜子┃影视",
+      "key": "瓜子影视",
+      "name": "🍁┃瓜子┃影视",
       "type": 3,
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Gz360",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+      "api": "csp_Gz360"
     },
     {
       "key": "免费影院",
@@ -159,7 +155,8 @@
 {"key":"360资源","name":"360资源(切)","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"豆瓣资源","name":"豆瓣资源","type":1,"api":"https://dbzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"豆瓣(切)","name":"豆瓣","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/at/josn/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-{"key":"自行搭建的 cms","name":"自行搭建的 cms","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
+{"key":"自行搭建的 cms","name":"如意cms","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
+{"key":"如意资源","name":"如意资源(切)","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"暴风资源","name":"暴风资源(切)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["理论片","福利","AI漫剧"]},
 {"key":"优质资源","name":"优质资源(切)","type":1,"api":"https://api.yyzy-tv.vip/inc/apijson.php?ac=list","searchable":1,"quickSearch":1,"categories": ["倫理片","福利"]},
 {"key":"飘零资源","name":"飘零资源(切)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["理论片","邵氏大片"]},
@@ -184,8 +181,6 @@
 {"key":"速播资源","name":"速播资源(切)","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"金鹰","name":"金鹰资源(切)","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"虎牙资源","name":"虎牙资源(切)","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-{"key":"如意资源","name":"如意资源(切)","type":1,"api":"https://cj.rycjapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
-{"key":"如意(切)","name":"如意(切)","type":1,"api":"http://cj.rycjapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"豪华茶杯狐","name":"豪华茶杯狐(切)","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"西瓜资源","name":"西瓜资源","type":1,"api":"https://caiji.xgzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
@@ -194,6 +189,8 @@
 {"key":"U酷资源","name":"U酷资源(切)","type":1,"api":"https://api.ukuapi88.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"红牛资源","name":"红牛(联通)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
 {"key":"樱花资源","name":"樱花(联通)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["伦理片"]},
+{"key":"巨量资源","name":"巨量资源","type":1,"api":"https://api.juliang.live/api/provide/vod/?ac=detail","searchable":1,"quickSearch":1,"categories": [""]},
+{"key":"云解析资源","name":"云解析","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1,"categories": [""]},
     {
       "key": "vv001",
       "name": "️💃女優💃",
@@ -873,7 +870,7 @@
 {"key":"🔞备用森林","name":"🔞森林备","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"🔞玉兔","name":"🔞玉兔","type":1,"api":"https://apiyutu.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 {"key":"🔞玉兔倒叙","name":"🔞玉兔倒叙","type":1,"api":"https://apiyutu.com/api.php/providedao/vod/?ac=list","searchable":1,"quickSearch":1},
-{"key":"🔞奥斯卡","name":"🔞奥斯卡","type":1,"api":"https://aosikazy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"🔞奥斯卡","name":"🔞奥斯卡","type":1,"api":"https://aosikazy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "🔞搜AV资源","name": "🔞搜AV资源","type": 1,"api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1},
 {"key": "🔞百万资源","name": "🔞百万资源","type": 1,"api": "https://api.bwzyz.com/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1,"categories": [],"style": {"type": "rect","ratio": 1.6}},
 {"key":"🔞香蕉","name":"🔞香蕉","type":1,"api":"https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},

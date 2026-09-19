@@ -1,7 +1,7 @@
 {
-  "spider": "https://gitee.com/jiayinmidi/zydx/blob/master/%E7%82%B9%E6%92%AD%E6%96%87%E4%BB%B6/xyq.jar",
-  "logo": "./lib/base.jpg",
-  "wallpaper": "https://picsum.photos/1080/",
+  "spider": "https://gitee.com/ztha002/th/raw/master/ztha.jar",
+  "wallpaper": "https://wp.upx8.com/api.php",
+  "warningText": "本站资源来自网络，如有冒犯，联系删除",
 "lives": [
          {
 		    "name": "LJZB",
